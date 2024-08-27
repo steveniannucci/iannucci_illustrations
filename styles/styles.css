@@ -75,11 +75,29 @@ h2 {
     text-align: center;
 }
 
-article img {
+.social-commentary img {
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
-article img:hover {
+.social-commentary img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.surrealism img {
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.surrealism img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.spine-chillers img {
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.spine-chillers img:hover {
     transform: scale(1.05);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
