@@ -37,3 +37,9 @@ nav ul li a:hover {
 footer {
     text-align: center;
 }
+
+.featured-image {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
