@@ -40,7 +40,11 @@ footer {
 
 .featured-image {
     display: block;
-    width: 50%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
+}
+
+.about {
+    text-align: center;
 }
