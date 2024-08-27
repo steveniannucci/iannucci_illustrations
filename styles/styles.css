@@ -84,6 +84,13 @@ h2 {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
+.social-commentary-art {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 .surrealism img {
     transition: transform 0.3s, box-shadow 0.3s;
 }
