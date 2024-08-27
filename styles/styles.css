@@ -1,8 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 
 .header-content {
     display: flex;
@@ -17,4 +13,23 @@
 
 .heading {
     font-size: 30px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    transition: color 0.3;
+}
+
+nav ul li a:hover {
+    color: red;
 }
