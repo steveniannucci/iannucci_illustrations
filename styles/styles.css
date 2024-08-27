@@ -1,4 +1,7 @@
-
+p {
+    font-family: 'Spectral', serif;
+    font-size: 18px;
+}
 
 .header-content {
     display: flex;
@@ -51,4 +54,10 @@ footer {
 
 .about {
     text-align: center;
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    font-size: 35px;
 }
