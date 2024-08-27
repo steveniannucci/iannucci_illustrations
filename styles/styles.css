@@ -23,6 +23,7 @@ p {
 nav ul {
     list-style-type: none;
     font-family: 'Spectral', serif;
+    font-size: 18px;
 }
 
 nav ul li {
