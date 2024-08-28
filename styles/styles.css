@@ -100,6 +100,13 @@ h2 {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
+.surrealism-art {
+    display: grid;
+    grid-template-columns: repeat(3, 0fr);
+    gap: 25px;
+    justify-content: center;
+}
+
 .spine-chillers img {
     transition: transform 0.3s, box-shadow 0.3s;
 }
@@ -107,4 +114,11 @@ h2 {
 .spine-chillers img:hover {
     transform: scale(1.05);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.spine-chillers-art {
+    display: grid;
+    grid-template-columns: repeat(3, 0fr);
+    gap: 25px;
+    justify-content: center;
 }
