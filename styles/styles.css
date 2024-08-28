@@ -87,7 +87,8 @@ h2 {
 .social-commentary-art {
     display: grid;
     grid-template-columns: repeat(3, 0fr);
-    gap: 20px;
+    gap: 25px;
+    justify-content: center;
 }
 
 .surrealism img {
