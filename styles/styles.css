@@ -122,3 +122,14 @@ h2 {
     gap: 25px;
     justify-content: center;
 }
+
+.commissions {
+    text-align: center;
+}
+
+.commissions-art {
+    display: grid;
+    grid-template-columns: repeat(1, 0fr);
+    gap: 25px;
+    justify-content: center;
+}
