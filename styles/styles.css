@@ -86,7 +86,7 @@ h2 {
 
 .social-commentary-art {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 0fr);
     gap: 20px;
 }
 
